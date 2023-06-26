@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.print('this is test, first')
+st.write('this is test, first')
